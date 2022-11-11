@@ -120,6 +120,7 @@
                         final.innerHTML='<br> <h4 class="text-success">Ganaste manco</h4> '
                     }
                 }
-                tablero.setAttribute('style','');
+                tablero.setAttribute('style',''); 
+                //comentario
             }, 1000);
         }
